@@ -2,7 +2,7 @@
 
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
-Live Demo - https://quantumcoding123.github.io/Day-2-Portpolio-Website-Responsive/
+Live Demo - https://quantumcoding123.github.io/Day-3-Portpolio-Website-Dynamic/
 
 # Join Us
 
@@ -22,15 +22,17 @@ Join the "100 Days, 100 Websites" challenge today and witness your proficiency i
 
 # Output - 1
 
-![Screenshot (6)](https://github.com/QuantumCoding123/Day-2-Portpolio-Website-Responsive/assets/166281221/7fb47805-d8cc-47e4-b696-8e1696c12860)
+![Screenshot (10)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/420d1dea-09b2-4e79-9372-f88164c4f63f)
+
 
 # Output - 2
 
-![Screenshot (7)](https://github.com/QuantumCoding123/Day-2-Portpolio-Website-Responsive/assets/166281221/261c96d8-faef-41fd-9886-e1070566cd87)
+![Screenshot (11)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/87661773-0201-49bc-aa80-621734b77f50)
+
 
 # Output - 3
 
-![Screenshot (9)](https://github.com/QuantumCoding123/Day-2-Portpolio-Website-Responsive/assets/166281221/dfba3034-1f1a-4b6b-9278-92cb629ff1b9)
+![Screenshot (12)](https://github.com/QuantumCoding123/Day-3-Portpolio-Website-Dynamic/assets/166281221/7ae80745-8106-4ec2-8d49-d8281bcbb1c9)
 
 
 
